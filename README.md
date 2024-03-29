@@ -12,7 +12,9 @@
 
 ## 다운로드 받은 영상의 이름이 not_found 일 경우
 
-가끔 페이지 아이디가 순차적으로 증가하지 않는 경우가 있습니다. ex) https://lecture/123 -> http://lecture/124 -> http://lecture/125 (실제 페이지 Id는 http://lecture/999)
+가끔 페이지 아이디가 순차적으로 증가하지 않는 경우가 있습니다.
+
+ ex) https://lecture/123 -> http://lecture/124 -> http://lecture/125 (실제 페이지 Id는 http://lecture/999)
 
 다운로드된 영상의 제목이 not_found로 되어 있거나 프로세스가 종료됩니다.
 
@@ -21,6 +23,3 @@
 ## 프로그램이 종료된 경우
 
 프로그램이 종료된 경우, 실행이 중단된 시점의 다음 강의부터 다시 시작합니다.
-"# script" 
-"# script" 
-"# script" 
